@@ -19,7 +19,7 @@ redirect_from:
 
 ## 👋 About Me
 
-Hello! I’m **Junfei Zhan**, an M.S.E. student in Electrical Engineering at the [University of Pennsylvania](https://www.upenn.edu/). I previously earned dual bachelor’s degrees in:
+Hello! I’m **Junfei Zhan (占俊飞)**, a master student in Electrical Engineering at the [University of Pennsylvania](https://www.upenn.edu/). I previously earned dual bachelor’s degrees in:
 - Applied Mathematics from the **University of Birmingham** (First Class Honours)  
 - Information & Computing Science from **Jinan University**  
 
