@@ -43,16 +43,26 @@ My primary research interests include:
 
 1. **Zhan, J.**, Yu, Z., & He, T. (2025).  
    *Can Large Language Models Credibly Stand In for Humans in Game-Theoretic Experiments?*  
-   Submitted to **ACM Multimedia**.
+   Submitted to **ACM Multimedia**.  
+   <br/>
+   **Figure Overview** (PDF):
+   ![LLM Paper Overview](/images/overview.pdf)
 
 2. Tengjiao He, **Zhan, J.**, Kwan-Wu Chin, Fei Song.  
    “Minimizing Maximum Age of Service in Computing Powered Green IoT Networks.”  
-   *IEEE Transactions on Mobile Computing* (Under Review).
+   *IEEE Transactions on Mobile Computing* (Under Review).  
+   <br/>
+   **Figure Overview** (EPS):
+   ![Green IoT Figure](/images/gIoT.eps)
 
 3. **Zhan, J.**, Jiayi Wu, Tengjiao He, Kwan-Wu Chin. (2024).  
    *Task Offloading and Approximate Computing in Solar-Powered IoT Networks.*  
    **IEEE Networking Letters**, 6(1), 26–30.  
-   [[DOI Link](https://doi.org/10.1109/LNET.2023.3328893)]
+   [[DOI Link](https://doi.org/10.1109/LNET.2023.3328893)]  
+   <br/>
+   **Figure Overview** (PDF):
+   ![Approximate Computing Figure](/images/Example.pdf)
+
 
 For more publications and citation information, please visit my 
 [Google Scholar](https://scholar.google.com/citations?user=IFibJMkAAAAJ&hl=en) profile.
